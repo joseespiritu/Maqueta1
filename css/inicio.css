@@ -1,0 +1,34 @@
+body {
+	background-color: #000000;
+	margin:0;
+	padding: 0;
+}
+
+#lateral img{
+	float: left;
+	padding: 15px;
+	margin: 100px;
+}
+
+#cuerpo-principal{
+	margin-left: 400px;
+	margin-right: 50px;
+	padding-left: 35px;
+	padding-top: 35px;
+}
+
+
+#cuerpo-principal h2{
+	color:yellow;
+	padding-top: 20px;
+	font-size: 45px;
+	font-family: Arial;
+}
+
+#cuerpo-principal p{
+	color:white;
+	font-size: 25px;
+	margin: 50px;
+	padding-top: 45px;
+	font-family: Arial;
+}

@@ -1,0 +1,30 @@
+body {
+	background-color: #FFFFFF;
+	margin:0;
+	padding: 0;
+}
+
+section {
+	margin-left:100px;
+	margin-right: 100px;
+}
+
+#cuerpo-principal h2{
+	color:#000000;
+	margin-top: 70px;
+	margin-left: 100px;
+	margin-bottom: 90px;
+	font-size: 65px;
+	font-family: Arial;
+	text-decoration: underline;
+}
+
+#cuerpo-principal p{
+	color:#000000;
+	margin-left: 220px;
+	margin-right: 220px;
+	text-align: justify;
+	font-size: 20px;
+	font-family: Arial;
+
+}

@@ -1,0 +1,68 @@
+body {
+	background-color: #FFFFFF;
+	margin:0;
+	padding: 0;
+}
+
+section {
+	margin-left:100px;
+	margin-right: 100px;
+}
+
+#cuerpo-principal h2{
+	color:#000000;
+	margin-top: 70px;
+	margin-left: 100px;
+	margin-bottom: 50px;
+	font-size: 65px;
+	font-family: Arial;
+	text-decoration: underline;
+}
+
+#listaproductos {
+	margin-left: 80px;
+	margin-right: 80px;
+	background-color: #CCCDEA;
+}
+
+#listaproductos div{
+	float:left;
+	margin-left: 20px;
+	margin-right: 20px;
+	width: 280px;
+	height: 300px;
+	background-color: #E5E5E5;
+}
+
+#listaproductos p{
+	font-size: 20px;
+}
+
+#listaproductos span{
+	color:red;
+}
+
+#listaproductos span:last-child{
+	color:orange;
+}
+
+#listaproductos aside{
+	float: left;
+}
+
+#listaproductos h3{
+	background: yellow;
+	height: 60px;
+	padding-top: 20px;
+	padding-bottom: 5px;
+	margin: 0;
+	text-align: auto;
+	font-size: 25px;
+}
+
+#listaproductos img{
+	padding:15px;
+	height: 200px;
+	margin: 10px;
+	background-color: white;
+}

@@ -1,0 +1,38 @@
+#menu-principal {
+	background: #0D6FD4;
+	height: 100px;
+}
+
+#menu-principal a {
+	color: white;
+}
+
+#menu-principal p{
+	color:#000000;
+	display: inline;
+	line-height: 100px;
+	font-size: 55px;
+	font-family: Arial;
+}
+
+#logo{
+	float: left;
+}
+
+nav{
+	float: right;
+}
+
+nav ul {
+	padding-right: 50px;
+}
+
+nav ul li {
+	display: inline;
+	line-height: 60px;
+}
+
+nav ul li a{
+	padding: 0 10px;
+	font-size: 25px;
+}
